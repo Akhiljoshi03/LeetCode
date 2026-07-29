@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Akhiljoshi03/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akhiljoshi03/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akhiljoshi03/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Akhiljoshi03/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
