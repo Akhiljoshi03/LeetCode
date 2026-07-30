@@ -11,6 +11,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Akhiljoshi03/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Akhiljoshi03/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akhiljoshi03/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akhiljoshi03/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Array
 |  |
@@ -32,6 +33,7 @@
 ## Math
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akhiljoshi03/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akhiljoshi03/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
 |  |
@@ -45,4 +47,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Akhiljoshi03/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akhiljoshi03/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
