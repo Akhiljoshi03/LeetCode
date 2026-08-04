@@ -12,6 +12,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Akhiljoshi03/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Akhiljoshi03/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0500-keyboard-row](https://github.com/Akhiljoshi03/LeetCode/tree/master/0500-keyboard-row) |
+| [2408-design-sql](https://github.com/Akhiljoshi03/LeetCode/tree/master/2408-design-sql) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akhiljoshi03/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akhiljoshi03/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akhiljoshi03/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -24,6 +25,7 @@
 | [0877-stone-game](https://github.com/Akhiljoshi03/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Akhiljoshi03/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akhiljoshi03/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2408-design-sql](https://github.com/Akhiljoshi03/LeetCode/tree/master/2408-design-sql) |
 | [3731-find-missing-elements](https://github.com/Akhiljoshi03/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -39,6 +41,7 @@
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/Akhiljoshi03/LeetCode/tree/master/0500-keyboard-row) |
+| [2408-design-sql](https://github.com/Akhiljoshi03/LeetCode/tree/master/2408-design-sql) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akhiljoshi03/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akhiljoshi03/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Akhiljoshi03/LeetCode/tree/master/3731-find-missing-elements) |
@@ -98,4 +101,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akhiljoshi03/LeetCode/tree/master/0002-add-two-numbers) |
+## Design
+|  |
+| ------- |
+| [2408-design-sql](https://github.com/Akhiljoshi03/LeetCode/tree/master/2408-design-sql) |
 <!---LeetCode Topics End-->
