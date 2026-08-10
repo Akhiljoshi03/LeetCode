@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Akhiljoshi03/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Akhiljoshi03/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Akhiljoshi03/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Akhiljoshi03/LeetCode/tree/master/0443-string-compression) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akhiljoshi03/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akhiljoshi03/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0238-product-of-array-except-self](https://github.com/Akhiljoshi03/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Akhiljoshi03/LeetCode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/Akhiljoshi03/LeetCode/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/Akhiljoshi03/LeetCode/tree/master/0500-keyboard-row) |
 | [0877-stone-game](https://github.com/Akhiljoshi03/LeetCode/tree/master/0877-stone-game) |
