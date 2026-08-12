@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Akhiljoshi03/LeetCode/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Akhiljoshi03/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Akhiljoshi03/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Akhiljoshi03/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akhiljoshi03/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Akhiljoshi03/LeetCode/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/Akhiljoshi03/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Akhiljoshi03/LeetCode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/Akhiljoshi03/LeetCode/tree/master/0486-predict-the-winner) |
@@ -91,6 +93,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Akhiljoshi03/LeetCode/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akhiljoshi03/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akhiljoshi03/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akhiljoshi03/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
