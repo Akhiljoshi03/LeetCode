@@ -37,6 +37,7 @@
 | [0283-move-zeroes](https://github.com/Akhiljoshi03/LeetCode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/Akhiljoshi03/LeetCode/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/Akhiljoshi03/LeetCode/tree/master/0500-keyboard-row) |
+| [0643-maximum-average-subarray-i](https://github.com/Akhiljoshi03/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/Akhiljoshi03/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Akhiljoshi03/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Akhiljoshi03/LeetCode/tree/master/1406-stone-game-iii) |
@@ -181,6 +182,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Akhiljoshi03/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Akhiljoshi03/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Akhiljoshi03/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
