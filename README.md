@@ -49,6 +49,7 @@
 | [2408-design-sql](https://github.com/Akhiljoshi03/LeetCode/tree/master/2408-design-sql) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Akhiljoshi03/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akhiljoshi03/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Akhiljoshi03/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Akhiljoshi03/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Akhiljoshi03/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Akhiljoshi03/LeetCode/tree/master/3731-find-missing-elements) |
@@ -211,4 +212,8 @@
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Akhiljoshi03/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Akhiljoshi03/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Akhiljoshi03/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
