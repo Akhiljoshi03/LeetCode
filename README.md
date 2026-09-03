@@ -16,6 +16,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Akhiljoshi03/LeetCode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Akhiljoshi03/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Akhiljoshi03/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Akhiljoshi03/LeetCode/tree/master/0392-is-subsequence) |
@@ -82,6 +83,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Akhiljoshi03/LeetCode/tree/master/0013-roman-to-integer) |
 | [0500-keyboard-row](https://github.com/Akhiljoshi03/LeetCode/tree/master/0500-keyboard-row) |
 | [1386-cinema-seat-allocation](https://github.com/Akhiljoshi03/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Akhiljoshi03/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akhiljoshi03/LeetCode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Akhiljoshi03/LeetCode/tree/master/0013-roman-to-integer) |
 | [0486-predict-the-winner](https://github.com/Akhiljoshi03/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Akhiljoshi03/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Akhiljoshi03/LeetCode/tree/master/1140-stone-game-ii) |
