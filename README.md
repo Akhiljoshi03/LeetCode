@@ -19,6 +19,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akhiljoshi03/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Akhiljoshi03/LeetCode/tree/master/0013-roman-to-integer) |
+| [0115-distinct-subsequences](https://github.com/Akhiljoshi03/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Akhiljoshi03/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Akhiljoshi03/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Akhiljoshi03/LeetCode/tree/master/0392-is-subsequence) |
@@ -159,6 +160,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akhiljoshi03/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/Akhiljoshi03/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/Akhiljoshi03/LeetCode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Akhiljoshi03/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Akhiljoshi03/LeetCode/tree/master/0877-stone-game) |
