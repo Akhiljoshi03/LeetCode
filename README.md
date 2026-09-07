@@ -25,6 +25,7 @@
 | [0392-is-subsequence](https://github.com/Akhiljoshi03/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Akhiljoshi03/LeetCode/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/Akhiljoshi03/LeetCode/tree/master/0500-keyboard-row) |
+| [0940-distinct-subsequences-ii](https://github.com/Akhiljoshi03/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akhiljoshi03/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/Akhiljoshi03/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Akhiljoshi03/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -164,6 +165,7 @@
 | [0392-is-subsequence](https://github.com/Akhiljoshi03/LeetCode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Akhiljoshi03/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Akhiljoshi03/LeetCode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Akhiljoshi03/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Akhiljoshi03/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Akhiljoshi03/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Akhiljoshi03/LeetCode/tree/master/1510-stone-game-iv) |
